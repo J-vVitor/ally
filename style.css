@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#foto{
+    height: 800px;
+    width: 600px;
+
+}
+
+button{
+    float: right;
+    position: relative;
+    right: 600px;
+    font-size: 30px;
+}
