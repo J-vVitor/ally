@@ -4,21 +4,9 @@
     height: 800px;
     width: 600px;
 
-
 }
 
-div{
-    height: 100vh;
-    
-}
-
-h1{
-    font-size: 20em;
-}
-
-button{
-    float: right;
-    position: relative;
-    right: 600px;
-    font-size: 30px;
+div img{
+    height: 200vh;
+    width: 80vw;
 }
